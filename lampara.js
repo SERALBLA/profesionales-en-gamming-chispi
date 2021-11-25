@@ -36,6 +36,12 @@ function Funcion5(){
 function Funcion6(){
     location.href = "webcam.html";
 }
+function Funcion7(){
+    location.href = "silla.html";
+}
+function Funcion8(){
+    location.href = "leds.html";
+}
 function Funcion9(){
     location.href = "comentarios.html";
 }
